@@ -1,0 +1,5 @@
+package com.thejavageek.jaxrs;
+
+public class HelloWorldService {
+
+}
